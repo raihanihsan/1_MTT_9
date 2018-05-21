@@ -1,4 +1,4 @@
-1.  Boundary: Dengan omset Rp 60jt / bulan dan dengan harga barang yang dipasarkna berkisar dari Rp 900rb – Rp 2.2jt kami mengambil titik tengah dengan harganya yaitu Rp 1.5jt jadi batasan yang di capai yaitu 60 / 1.5 = 40 item per bulan.//perlu revisi
+1.  Boundary: Dengan omset Rp 60jt / bulan dan dengan harga barang yang dipasarkna berkisar dari Rp 900rb – Rp 2.2jt kami mengambil titik tengah dengan harganya yaitu Rp 1.5jt jadi batasan yang di capai yaitu 60 / 1.5 = 40 item per bulan.//perlu revisi.
 
 2.  Environment = Customer dari kalangan Ibu-Ibu, Wanita Karir yang menengah keatas.
 
